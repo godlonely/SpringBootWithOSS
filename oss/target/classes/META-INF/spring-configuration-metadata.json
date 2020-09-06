@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "aliyun",
+      "type": "com.lagou.oss.config.Aliconfig",
+      "sourceType": "com.lagou.oss.config.Aliconfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.oss.config.Aliconfig"
+    },
+    {
+      "name": "aliyun.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.oss.config.Aliconfig"
+    },
+    {
+      "name": "aliyun.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.oss.config.Aliconfig"
+    },
+    {
+      "name": "aliyun.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.oss.config.Aliconfig"
+    },
+    {
+      "name": "aliyun.url-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.oss.config.Aliconfig"
+    }
+  ],
+  "hints": []
+}
